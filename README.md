@@ -1,0 +1,2 @@
+# remote_sensing_interpretation_platform
+本仓库参加2022年中国软件杯，本仓库实现了基于前后端分离结构的遥感解译平台。 项目使用spring boot，mybatis，vue等常用开发框架，分别在IDEA和VS Code上完成开发。 ENG：The warehouse participated in the 2022 China Software Cup and realized the remote sensing interpretation platform based on the front and back end separation structure. The project uses spring Boot, Mybatis, VUE and other commonly used development frameworks to complete development on IDEA and VS Code respectively.
